@@ -14,7 +14,7 @@ Alongside that I got into algorithms, reaching the **national stage of the Roman
 
 ## What I'm working on
 
-| | |
+| **Project** | **Desctiption** |
 |---|---|
 | 🌐 **Client websites** | React + TypeScript builds for three paying clients, deployed and maintained on my own infrastructure |
 | 💳 **[naloSalesUp](https://github.com/MoloDani/naloSalesUp)** | Subscription and licensing platform — hardware-based device binding and Stripe recurring billing |
