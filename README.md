@@ -34,6 +34,6 @@ Alongside that I got into algorithms, reaching the **national stage of the Roman
 
 ## How to reach me
 
-📧 **danielmolodet@yahoo.com** · 💼 **[LinkedIn](https://linkedin.com/in/danielmolodet)** · 🧩 **[Codeforces](https://codeforces.com/profile/MoloDani)**
+📧 **danielmolodet@yahoo.com** · 💼 **[LinkedIn](https://linkedin.com/in/daniel-molodet)** · 🧩 **[Codeforces](https://codeforces.com/profile/MoloDani)**
 
 **Open to internships and freelance work.**
